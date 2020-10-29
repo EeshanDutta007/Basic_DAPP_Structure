@@ -11,3 +11,5 @@ A basic Smart Contract is deployed in the the Rinkeby Ethereum Blockchain Testne
  4) web3 - 1.0.0-beta.26
  
  5) mocha - 8.2.0
+ 
+ <img src = "img1.png" height=500>
